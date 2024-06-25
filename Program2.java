@@ -41,7 +41,7 @@ public class Program2 {
 			acc5.updateBalance();
 			System.out.println("Update !");
 		};
-		
+		sc.close();
 	}
 	
 
